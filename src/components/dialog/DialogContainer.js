@@ -10,6 +10,8 @@ const DialogContainerStyled = styled.div`
     height: 100vh;
     background-color: #33333333;
 
+    z-index: 100;
+
     display: flex;
     align-items: center;
     justify-content: center;
